@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/mbrzozo/kaleyra/issues"
   },
-  "homepage": "https://github.com/mbrzozo/kaleyra#readme"
+  "homepage": "https://github.com/mbrzozo/kaleyra#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
 }
