@@ -1,0 +1,19 @@
+{
+  "name": "kaleyra",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mbrzozo/kaleyra.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mbrzozo/kaleyra/issues"
+  },
+  "homepage": "https://github.com/mbrzozo/kaleyra#readme"
+}
